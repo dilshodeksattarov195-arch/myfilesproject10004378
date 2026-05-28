@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceeync",
+        "uuid": 22537944,
+        "checksum": "mm4ldi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
